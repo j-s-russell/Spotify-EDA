@@ -8,10 +8,8 @@
 ![](/images/corr_matrix.png)
 
 
-
 * This project analyzes the attributes for different time periods of music, so we focus on the features that have the strongest correlation with the year feature:
+
 ![](/images/lineplot.png)
-
-
 
 * During
