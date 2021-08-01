@@ -5,6 +5,7 @@
 ---
 ## Data
 * The dataset includes 15 attributes, all shown in the correlation matrix below:
+
 ![](/images/corr_matrix.png)
 
 
@@ -12,4 +13,10 @@
 
 ![](/images/lineplot.png)
 
-* During
+* Around 1950 - 1960, significant trends appeared in many of these variables, namely instrumentalness, energy, and acousticness. By taking the mean of these variables by each year, we can visualize how the characteristics of popular music changed over time - where these attributes were increasing/decreasing at the greatest rate, where they were less relevant, and where they peaked:
+
+![](/images/energy.png)
+![](/images/loudness.png)
+![](/images/acousticness.png)
+
+* We
