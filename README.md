@@ -19,4 +19,4 @@
 ![](/images/loudness.png)
 ![](/images/acousticness.png)
 
-* We
+* There are fewer songs in the dataset during the early 1900's, so there is much more variation in these attributes during earlier years. Near the second half of the century, however, the energy, loudness, and acousticness attributes all show a significant relationship with the year,
